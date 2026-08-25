@@ -1,4 +1,4 @@
-const CACHE_NAME = "earnix9ja-cache-v1";
+const CACHE_NAME = "earnix9ja-cache-v2";
 const APP_SHELL = ["/", "/index.html", "/manifest.webmanifest?v=20260317", "/favicon.ico", "/earnix9ja-icon.svg"];
 
 self.addEventListener("install", (event) => {
